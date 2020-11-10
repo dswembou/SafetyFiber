@@ -1,0 +1,2801 @@
+fileFormatVersion: 2
+guid: 30c947a8b689fc848bb9bd9fd67ad4f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4672606834624293515
+    second: spritesheet level elements topview_0
+  - first:
+      213: 774923937088297885
+    second: spritesheet level elements topview_1
+  - first:
+      213: -5161017425956922337
+    second: spritesheet level elements topview_2
+  - first:
+      213: -1130775192112384160
+    second: spritesheet level elements topview_3
+  - first:
+      213: -6509559120442700113
+    second: spritesheet level elements topview_4
+  - first:
+      213: -5213323891284302369
+    second: spritesheet level elements topview_5
+  - first:
+      213: -3844797711253647037
+    second: spritesheet level elements topview_6
+  - first:
+      213: -2610948410626138145
+    second: spritesheet level elements topview_7
+  - first:
+      213: -4046921313838087985
+    second: spritesheet level elements topview_8
+  - first:
+      213: -6654699180067480495
+    second: spritesheet level elements topview_9
+  - first:
+      213: 4871355011915859211
+    second: spritesheet level elements topview_10
+  - first:
+      213: 3264998449433907711
+    second: spritesheet level elements topview_11
+  - first:
+      213: -1612789959655752757
+    second: spritesheet level elements topview_12
+  - first:
+      213: 3688223089875337269
+    second: spritesheet level elements topview_13
+  - first:
+      213: -2648057278041970372
+    second: spritesheet level elements topview_14
+  - first:
+      213: 2092367466624772947
+    second: spritesheet level elements topview_15
+  - first:
+      213: 3117632454659324579
+    second: spritesheet level elements topview_16
+  - first:
+      213: 5346483812385499843
+    second: spritesheet level elements topview_17
+  - first:
+      213: 5694412925676637855
+    second: spritesheet level elements topview_18
+  - first:
+      213: -4214120440152148793
+    second: spritesheet level elements topview_19
+  - first:
+      213: 2429430963646747855
+    second: spritesheet level elements topview_20
+  - first:
+      213: -9222825176012732898
+    second: spritesheet level elements topview_21
+  - first:
+      213: -2785216084204384442
+    second: spritesheet level elements topview_22
+  - first:
+      213: -8130921323712053486
+    second: spritesheet level elements topview_23
+  - first:
+      213: -7189580915669724567
+    second: spritesheet level elements topview_24
+  - first:
+      213: -1321999435643748254
+    second: spritesheet level elements topview_25
+  - first:
+      213: 970707229180747610
+    second: spritesheet level elements topview_26
+  - first:
+      213: 4216489108037938768
+    second: spritesheet level elements topview_27
+  - first:
+      213: -6464006934773647250
+    second: spritesheet level elements topview_28
+  - first:
+      213: 619025293449513126
+    second: spritesheet level elements topview_29
+  - first:
+      213: -6801936673752828415
+    second: spritesheet level elements topview_30
+  - first:
+      213: 7273642210894363537
+    second: spritesheet level elements topview_31
+  - first:
+      213: -6098507883664373858
+    second: spritesheet level elements topview_32
+  - first:
+      213: 1535353837363355115
+    second: spritesheet level elements topview_33
+  - first:
+      213: 7927572335887155552
+    second: spritesheet level elements topview_34
+  - first:
+      213: 7582646146005564903
+    second: spritesheet level elements topview_35
+  - first:
+      213: -1027216187445474386
+    second: spritesheet level elements topview_36
+  - first:
+      213: 6105914091476953553
+    second: spritesheet level elements topview_37
+  - first:
+      213: 7444492505278813163
+    second: spritesheet level elements topview_38
+  - first:
+      213: -7527384116737690471
+    second: spritesheet level elements topview_39
+  - first:
+      213: 3406195262651524164
+    second: spritesheet level elements topview_40
+  - first:
+      213: -5327409651018316597
+    second: spritesheet level elements topview_41
+  - first:
+      213: 7906841051903243421
+    second: spritesheet level elements topview_42
+  - first:
+      213: 2214594452324681290
+    second: spritesheet level elements topview_43
+  - first:
+      213: -7783766363168728442
+    second: spritesheet level elements topview_44
+  - first:
+      213: -8362120821634425904
+    second: spritesheet level elements topview_45
+  - first:
+      213: 4903757014306869753
+    second: spritesheet level elements topview_46
+  - first:
+      213: -8166647026681856628
+    second: spritesheet level elements topview_47
+  - first:
+      213: -2237727113123090377
+    second: spritesheet level elements topview_48
+  - first:
+      213: -7738932762107052546
+    second: spritesheet level elements topview_49
+  - first:
+      213: 2158349531639101918
+    second: spritesheet level elements topview_50
+  - first:
+      213: -7971303164845847299
+    second: spritesheet level elements topview_51
+  - first:
+      213: -2613957232986847695
+    second: spritesheet level elements topview_52
+  - first:
+      213: 8505723784110818409
+    second: spritesheet level elements topview_53
+  - first:
+      213: 1002375860493094793
+    second: spritesheet level elements topview_54
+  - first:
+      213: -6606212667857961118
+    second: spritesheet level elements topview_55
+  - first:
+      213: 3478587046958020729
+    second: spritesheet level elements topview_56
+  - first:
+      213: -3106975724475265408
+    second: spritesheet level elements topview_57
+  - first:
+      213: 6731726616402454094
+    second: spritesheet level elements topview_58
+  - first:
+      213: -2286157484026048526
+    second: spritesheet level elements topview_59
+  - first:
+      213: -3746099506326383081
+    second: spritesheet level elements topview_60
+  - first:
+      213: 8575209622435887579
+    second: spritesheet level elements topview_61
+  - first:
+      213: 7522176132993440523
+    second: spritesheet level elements topview_62
+  - first:
+      213: 3350916965226531958
+    second: spritesheet level elements topview_63
+  - first:
+      213: 4650263810347452153
+    second: spritesheet level elements topview_64
+  - first:
+      213: -5040260453356307653
+    second: spritesheet level elements topview_65
+  - first:
+      213: -52538701271877278
+    second: spritesheet level elements topview_66
+  - first:
+      213: 6613374990599801921
+    second: spritesheet level elements topview_67
+  - first:
+      213: 645129399277183574
+    second: spritesheet level elements topview_68
+  - first:
+      213: 3281593467336334533
+    second: spritesheet level elements topview_69
+  - first:
+      213: -5044740927722964731
+    second: spritesheet level elements topview_70
+  - first:
+      213: -6452828610213886854
+    second: spritesheet level elements topview_71
+  - first:
+      213: 2181098840518238382
+    second: spritesheet level elements topview_72
+  - first:
+      213: -3453082548384709699
+    second: spritesheet level elements topview_73
+  - first:
+      213: -588675625018926218
+    second: spritesheet level elements topview_74
+  - first:
+      213: -1289478858834213143
+    second: spritesheet level elements topview_75
+  - first:
+      213: 7844147968929124728
+    second: spritesheet level elements topview_76
+  - first:
+      213: -6643548785612004521
+    second: spritesheet level elements topview_77
+  - first:
+      213: -2453613510042441315
+    second: spritesheet level elements topview_78
+  - first:
+      213: 6323474517079994235
+    second: spritesheet level elements topview_79
+  - first:
+      213: -6934356543150534092
+    second: spritesheet level elements topview_80
+  - first:
+      213: -8991346830637562185
+    second: spritesheet level elements topview_81
+  - first:
+      213: -2304887977092089473
+    second: spritesheet level elements topview_82
+  - first:
+      213: 4959786734889542512
+    second: spritesheet level elements topview_83
+  - first:
+      213: 3553635734397720450
+    second: spritesheet level elements topview_84
+  - first:
+      213: -2134882501551366609
+    second: spritesheet level elements topview_85
+  - first:
+      213: -6099739448793121530
+    second: spritesheet level elements topview_86
+  - first:
+      213: -6219844353223307211
+    second: spritesheet level elements topview_87
+  - first:
+      213: 3703355945437395501
+    second: spritesheet level elements topview_88
+  - first:
+      213: -2966527272603397687
+    second: spritesheet level elements topview_89
+  - first:
+      213: -1991114445999261144
+    second: spritesheet level elements topview_90
+  - first:
+      213: 8828857150630878616
+    second: spritesheet level elements topview_91
+  - first:
+      213: -716559258770933971
+    second: spritesheet level elements topview_92
+  - first:
+      213: 1551699816017833862
+    second: spritesheet level elements topview_93
+  - first:
+      213: -4686923519413176133
+    second: spritesheet level elements topview_94
+  - first:
+      213: 420103359903330255
+    second: spritesheet level elements topview_95
+  - first:
+      213: 1478424534605647703
+    second: spritesheet level elements topview_96
+  - first:
+      213: 579366721831806502
+    second: spritesheet level elements topview_97
+  - first:
+      213: -203262283986245504
+    second: spritesheet level elements topview_98
+  - first:
+      213: -5912123473591665311
+    second: spritesheet level elements topview_0
+  - first:
+      213: -9124091894014472
+    second: spritesheet level elements topview_1
+  - first:
+      213: -1108883065072765747
+    second: spritesheet level elements topview_2
+  - first:
+      213: 8906404790601307098
+    second: spritesheet level elements topview_3
+  - first:
+      213: 2008374977775774250
+    second: spritesheet level elements topview_4
+  - first:
+      213: -7287057350940027520
+    second: spritesheet level elements topview_5
+  - first:
+      213: -2185778825114597364
+    second: spritesheet level elements topview_6
+  - first:
+      213: 171009006771333474
+    second: spritesheet level elements topview_7
+  - first:
+      213: 7545172347027016962
+    second: spritesheet level elements topview_8
+  - first:
+      213: 2629833645542945863
+    second: spritesheet level elements topview_9
+  - first:
+      213: -4157999790786146069
+    second: spritesheet level elements topview_10
+  - first:
+      213: -595236510969317692
+    second: spritesheet level elements topview_11
+  - first:
+      213: -651340381140231556
+    second: spritesheet level elements topview_12
+  - first:
+      213: -5844573132031354834
+    second: spritesheet level elements topview_13
+  - first:
+      213: -5617677729951394341
+    second: spritesheet level elements topview_14
+  - first:
+      213: 4429882764185820691
+    second: spritesheet level elements topview_15
+  - first:
+      213: 2467127501750434184
+    second: spritesheet level elements topview_16
+  - first:
+      213: 2214881654058256484
+    second: spritesheet level elements topview_17
+  - first:
+      213: 6089895711981573810
+    second: spritesheet level elements topview_18
+  - first:
+      213: -5674224612622470868
+    second: spritesheet level elements topview_19
+  - first:
+      213: -5638292651355357112
+    second: spritesheet level elements topview_20
+  - first:
+      213: -1095894441460864701
+    second: spritesheet level elements topview_21
+  - first:
+      213: 2898379968776013341
+    second: spritesheet level elements topview_22
+  - first:
+      213: -1307967479785652240
+    second: spritesheet level elements topview_23
+  - first:
+      213: 9201564567416739396
+    second: spritesheet level elements topview_24
+  - first:
+      213: 7917850568662970553
+    second: spritesheet level elements topview_25
+  - first:
+      213: 4686260543852455237
+    second: spritesheet level elements topview_26
+  - first:
+      213: 7890013373206930846
+    second: spritesheet level elements topview_27
+  - first:
+      213: -4957359722687641587
+    second: spritesheet level elements topview_28
+  - first:
+      213: 4971199039799386591
+    second: spritesheet level elements topview_29
+  - first:
+      213: -6700225681972433382
+    second: spritesheet level elements topview_30
+  - first:
+      213: -5722633601636299296
+    second: spritesheet level elements topview_31
+  - first:
+      213: 2824340524220793954
+    second: spritesheet level elements topview_32
+  - first:
+      213: 2431967335452017071
+    second: spritesheet level elements topview_33
+  - first:
+      213: 5317558462125694304
+    second: spritesheet level elements topview_34
+  - first:
+      213: -373304321988758744
+    second: spritesheet level elements topview_35
+  - first:
+      213: -1137711513129062098
+    second: spritesheet level elements topview_36
+  - first:
+      213: -4545677766174099287
+    second: spritesheet level elements topview_37
+  - first:
+      213: -188060706874663523
+    second: spritesheet level elements topview_38
+  - first:
+      213: -7290098086626297709
+    second: spritesheet level elements topview_39
+  - first:
+      213: 5747235375202179332
+    second: spritesheet level elements topview_40
+  - first:
+      213: -5388870783346666805
+    second: spritesheet level elements topview_41
+  - first:
+      213: 3220797385895356725
+    second: spritesheet level elements topview_42
+  - first:
+      213: 8138581063656242902
+    second: spritesheet level elements topview_43
+  - first:
+      213: 5889004244028456067
+    second: spritesheet level elements topview_44
+  - first:
+      213: -1123612510589174287
+    second: spritesheet level elements topview_45
+  - first:
+      213: 8926721285088149354
+    second: spritesheet level elements topview_46
+  - first:
+      213: -2026604063512939267
+    second: spritesheet level elements topview_47
+  - first:
+      213: -6067316246705793307
+    second: spritesheet level elements topview_48
+  - first:
+      213: 3682617046418292268
+    second: spritesheet level elements topview_49
+  - first:
+      213: -4393273617573543243
+    second: spritesheet level elements topview_50
+  - first:
+      213: 2871406988625535585
+    second: spritesheet level elements topview_51
+  - first:
+      213: -2444673045051451905
+    second: spritesheet level elements topview_52
+  - first:
+      213: -7412282968183067137
+    second: spritesheet level elements topview_53
+  - first:
+      213: -8058015778003703603
+    second: spritesheet level elements topview_54
+  - first:
+      213: -4418643525478299975
+    second: spritesheet level elements topview_55
+  - first:
+      213: -4205659543147615803
+    second: spritesheet level elements topview_56
+  - first:
+      213: -60126498279820470
+    second: spritesheet level elements topview_57
+  - first:
+      213: 8692977404373350093
+    second: spritesheet level elements topview_58
+  - first:
+      213: 5562615237723380159
+    second: spritesheet level elements topview_59
+  - first:
+      213: 2470255269310247822
+    second: spritesheet level elements topview_60
+  - first:
+      213: 3202893755362935168
+    second: spritesheet level elements topview_61
+  - first:
+      213: -7773523943261594713
+    second: spritesheet level elements topview_62
+  - first:
+      213: -149188313833995214
+    second: spritesheet level elements topview_63
+  - first:
+      213: -2204391012240559442
+    second: spritesheet level elements topview_64
+  - first:
+      213: -4642828264184742639
+    second: spritesheet level elements topview_65
+  - first:
+      213: 4246497480380211373
+    second: spritesheet level elements topview_66
+  - first:
+      213: 5022455937409562955
+    second: spritesheet level elements topview_67
+  - first:
+      213: 2041200424233274599
+    second: spritesheet level elements topview_68
+  - first:
+      213: 2829840793700684240
+    second: spritesheet level elements topview_69
+  - first:
+      213: 3318146249234685206
+    second: spritesheet level elements topview_70
+  - first:
+      213: 8306156396143742220
+    second: spritesheet level elements topview_71
+  - first:
+      213: 7847971625319156626
+    second: spritesheet level elements topview_72
+  - first:
+      213: -1580697134500380001
+    second: spritesheet level elements topview_73
+  - first:
+      213: 5641564528471580176
+    second: spritesheet level elements topview_74
+  - first:
+      213: 5119972279315175474
+    second: spritesheet level elements topview_75
+  - first:
+      213: -2362985205323067145
+    second: spritesheet level elements topview_76
+  - first:
+      213: -7805585576955384758
+    second: spritesheet level elements topview_77
+  - first:
+      213: -2316482725654878426
+    second: spritesheet level elements topview_78
+  - first:
+      213: -5680261688318942686
+    second: spritesheet level elements topview_79
+  - first:
+      213: -8336489300294482235
+    second: spritesheet level elements topview_80
+  - first:
+      213: -2025715604290106006
+    second: spritesheet level elements topview_81
+  - first:
+      213: -6613712191014437255
+    second: spritesheet level elements topview_82
+  - first:
+      213: 1518566930495366288
+    second: spritesheet level elements topview_83
+  - first:
+      213: 4024463720861594817
+    second: spritesheet level elements topview_84
+  - first:
+      213: 6864494278336731617
+    second: spritesheet level elements topview_85
+  - first:
+      213: -1524653274194139123
+    second: spritesheet level elements topview_86
+  - first:
+      213: 1979793769767940709
+    second: spritesheet level elements topview_87
+  - first:
+      213: -1842793684889141772
+    second: spritesheet level elements topview_88
+  - first:
+      213: -5849660482033336396
+    second: spritesheet level elements topview_89
+  - first:
+      213: -5250200579064317920
+    second: spritesheet level elements topview_90
+  - first:
+      213: -6742126486922804524
+    second: spritesheet level elements topview_91
+  - first:
+      213: 5754798397856193271
+    second: spritesheet level elements topview_92
+  - first:
+      213: 1719568476870799134
+    second: spritesheet level elements topview_93
+  - first:
+      213: -7418797389333688688
+    second: spritesheet level elements topview_94
+  - first:
+      213: 7955598766344120544
+    second: spritesheet level elements topview_95
+  - first:
+      213: 8623733449097264864
+    second: spritesheet level elements topview_96
+  - first:
+      213: 8851181194661201044
+    second: spritesheet level elements topview_97
+  - first:
+      213: -1028532026438265380
+    second: spritesheet level elements topview_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet level elements topview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df158460be3fda0800000000000000
+      internalID: -5912123473591665311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd52cfcfa59fdff0800000000000000
+      internalID: -9124091894014472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc434e83ab47c90f0800000000000000
+      internalID: -1108883065072765747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3d0a908f7e99b70800000000000000
+      internalID: 8906404790601307098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aab16c66e2fdb10800000000000000
+      internalID: 2008374977775774250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851253a2fb2fda90800000000000000
+      internalID: -7287057350940027520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0849734dbd8aa1e0800000000000000
+      internalID: -2185778825114597364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696ffd19cb8f5200800000000000000
+      internalID: 171009006771333474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d45a90646d5b860800000000000000
+      internalID: 7545172347027016962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74435f464cb0f7420800000000000000
+      internalID: 2629833645542945863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be01b066831db46c0800000000000000
+      internalID: -4157999790786146069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b4560c8b4db7f0800000000000000
+      internalID: -595236510969317692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad442df59f5f6f0800000000000000
+      internalID: -651340381140231556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e289a79c3b7e3eea0800000000000000
+      internalID: -5844573132031354834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5df9b4edff902b0800000000000000
+      internalID: -5617677729951394341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_15
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31edbeb47ea1a7d30800000000000000
+      internalID: 4429882764185820691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_16
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897e65346ffc3220800000000000000
+      internalID: 2467127501750434184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_17
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680ca12127dcbe10800000000000000
+      internalID: 2214881654058256484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_18
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b616d762e7a38450800000000000000
+      internalID: 6089895711981573810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_19
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21fbd437ca1141b0800000000000000
+      internalID: -5674224612622470868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c440e4b2c0c1b0800000000000000
+      internalID: -5638292651355357112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496661dfc99ac0f0800000000000000
+      internalID: -1095894441460864701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16800fa93d193820800000000000000
+      internalID: 2898379968776013341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fffc9dc18a29dde0800000000000000
+      internalID: -1307967479785652240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44612bad83682bf70800000000000000
+      internalID: 9201564567416739396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f7c1442bd1ed60800000000000000
+      internalID: 7917850568662970553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_26
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5452141c221f80140800000000000000
+      internalID: 4686260543852455237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_27
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a41f1c55fe7d60800000000000000
+      internalID: 7890013373206930846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_28
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08cf51f89be33bb0800000000000000
+      internalID: -4957359722687641587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_29
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1610b203f3df440800000000000000
+      internalID: 4971199039799386591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6517dd340403a0800000000000000
+      internalID: -6700225681972433382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed01c22f0f1590b0800000000000000
+      internalID: -5722633601636299296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264cbe62eb2123720800000000000000
+      internalID: 2824340524220793954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa188fe086510c120800000000000000
+      internalID: 2431967335452017071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ddf576f33cbc940800000000000000
+      internalID: 5317558462125694304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_35
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823fdbe62b1c1daf0800000000000000
+      internalID: -373304321988758744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_36
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f11b18690630f0800000000000000
+      internalID: -1137711513129062098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_37
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a83dcbd7228ae0c0800000000000000
+      internalID: -4545677766174099287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_38
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd68298cfd36df0800000000000000
+      internalID: -188060706874663523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_39
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39872e03a6e54da90800000000000000
+      internalID: -7290098086626297709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091c73af1842cf40800000000000000
+      internalID: 5747235375202179332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21422f292e635b0800000000000000
+      internalID: -5388870783346666805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539accf682292bc20800000000000000
+      internalID: 3220797385895356725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de73fa7b5c02f070800000000000000
+      internalID: 8138581063656242902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c751e9822f9b150800000000000000
+      internalID: 5889004244028456067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdb521ff502860f0800000000000000
+      internalID: -1123612510589174287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff89686b512eb70800000000000000
+      internalID: 8926721285088149354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b2f5775e00e3e0800000000000000
+      internalID: -2026604063512939267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_48
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6152705009ccba0800000000000000
+      internalID: -6067316246705793307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_49
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e7f8f31b84b1330800000000000000
+      internalID: 3682617046418292268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b20f6fdbe4f703c0800000000000000
+      internalID: -4393273617573543243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162699a517949d720800000000000000
+      internalID: 2871406988625535585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55cb561d6c21ed0800000000000000
+      internalID: -2444673045051451905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd25c299e7422990800000000000000
+      internalID: -7412282968183067137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8a895d75d2c2090800000000000000
+      internalID: -8058015778003703603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_55
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b649c2ef13dda2c0800000000000000
+      internalID: -4418643525478299975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_56
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c964749dee72a5c0800000000000000
+      internalID: -4205659543147615803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_57
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a437174b4436a2ff0800000000000000
+      internalID: -60126498279820470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_58
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6bb2454e8a3a870800000000000000
+      internalID: 8692977404373350093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95da23611623d40800000000000000
+      internalID: 5562615237723380159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8336c7541c184220800000000000000
+      internalID: 2470255269310247822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08189bd96e6f27c20800000000000000
+      internalID: 3202893755362935168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab16e4d825ee1490800000000000000
+      internalID: -7773523943261594713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_63
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234094dd40afdedf0800000000000000
+      internalID: -149188313833995214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_64
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27651cd0e6861e0800000000000000
+      internalID: -2204391012240559442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_65
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dff10ea4c519fb0800000000000000
+      internalID: -4642828264184742639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_66
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da067a1a5f69eea30800000000000000
+      internalID: 4246497480380211373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_67
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b493951a01953b540800000000000000
+      internalID: 5022455937409562955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_68
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0dc998fcc35c10800000000000000
+      internalID: 2041200424233274599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1507f653d954720800000000000000
+      internalID: 2829840793700684240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9d62fe6c6c0e20800000000000000
+      internalID: 3318146249234685206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_71
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8cf00c35654370800000000000000
+      internalID: 8306156396143742220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4e76ec9899ec60800000000000000
+      internalID: 7847971625319156626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_73
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9280a0c45c301ae0800000000000000
+      internalID: -1580697134500380001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_74
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1ef06c0dda4e40800000000000000
+      internalID: 5641564528471580176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_75
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389d6849abcd0740800000000000000
+      internalID: 5119972279315175474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_76
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f01733b97df43fd0800000000000000
+      internalID: -2362985205323067145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_77
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c69a5064dfca390800000000000000
+      internalID: -7805585576955384758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_78
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272309fb333adfd0800000000000000
+      internalID: -2316482725654878426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222d7cf618ab21b0800000000000000
+      internalID: -5680261688318942686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64a166627de4c80800000000000000
+      internalID: -8336489300294482235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_81
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d825ef36633e3e0800000000000000
+      internalID: -2025715604290106006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef9ef9dcf5734a0800000000000000
+      internalID: -6613712191014437255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_83
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e4dbd398031510800000000000000
+      internalID: 1518566930495366288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_84
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f66d7e64c9d730800000000000000
+      internalID: 4024463720861594817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_85
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e956fe2d25934f50800000000000000
+      internalID: 6864494278336731617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_86
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a502dce757dae0800000000000000
+      internalID: -1524653274194139123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_87
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562bc87b1f3a97b10800000000000000
+      internalID: 1979793769767940709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_88
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd79d938e41d66e0800000000000000
+      internalID: -1842793684889141772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf33cfc8c4d1dea0800000000000000
+      internalID: -5849660482033336396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028325dd36a8327b0800000000000000
+      internalID: -5250200579064317920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_91
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c6347ea72f62a0800000000000000
+      internalID: -6742126486922804524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa943217a62ddf40800000000000000
+      internalID: 5754798397856193271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_93
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe7d64b622dd710800000000000000
+      internalID: 1719568476870799134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_94
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8b24b4132b0990800000000000000
+      internalID: -7418797389333688688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_95
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e82a7b6de6f76e60800000000000000
+      internalID: 7955598766344120544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_96
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb817a1e7ada770800000000000000
+      internalID: 8623733449097264864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_97
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4940666a666b5da70800000000000000
+      internalID: 8851181194661201044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet level elements topview_98
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d804429be9b1f0800000000000000
+      internalID: -1028532026438265380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
