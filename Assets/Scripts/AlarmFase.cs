@@ -2,17 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AlarmFase : MonoBehaviour
+[System.Serializable]
+public class AlarmFase
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int code;
+    public string location;
+    public string floor;
 
-    // Update is called once per frame
-    void Update()
+    public AlarmFase(int cd, string loc)
     {
-        
+        this.code = cd;
+        this.location = loc;
+    }
+    
+    public AlarmFase(int cd, string loc, string flo)
+    {
+        this.code = cd;
+        this.location = loc;
+        this.floor = flo;
     }
 }
