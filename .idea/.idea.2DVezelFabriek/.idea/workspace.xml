@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="330bd384-2257-4362-9178-3bb8b028b484" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +18,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/AlarmFase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AlarmManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
       </list>
     </option>
   </component>
@@ -58,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605043717766</updated>
       <workItem from="1605043723637" duration="1141000" />
+      <workItem from="1605082229627" duration="3766000" />
     </task>
     <servers />
   </component>
@@ -68,5 +73,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605083647042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605083647042" />
   </component>
 </project>
